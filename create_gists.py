@@ -6,7 +6,7 @@ import datetime
 import time
 
 
-token = "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"
+token = ""
 access_url = "https://api.github.com/gists"
 
 filename = "file.txt"
