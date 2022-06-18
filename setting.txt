@@ -1,0 +1,742 @@
+{
+    "text_prompts": {
+        "0": [
+            "Beautiful detailed portrait of an adorable egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "1": [
+            "Beautiful detailed portrait of an adorable 1 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "2": [
+            "Beautiful detailed portrait of an adorable 2 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "3": [
+            "Beautiful detailed portrait of an adorable 3 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "4": [
+            "Beautiful detailed portrait of an adorable 4 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "5": [
+            "Beautiful detailed portrait of an adorable 5 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "6": [
+            "Beautiful detailed portrait of adorable 1 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "7": [
+            "Beautiful detailed portrait of adorable 2 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "8": [
+            "Beautiful detailed portrait of adorable 3 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "9": [
+            "Beautiful detailed portrait of adorable 4 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "10": [
+            "Beautiful detailed portrait of adorable 5 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "11": [
+            "Beautiful detailed portrait of 1 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "12": [
+            "Beautiful detailed portrait of 2 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "13": [
+            "Beautiful detailed portrait of 3 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "14": [
+            "Beautiful detailed portrait of 4 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "15": [
+            "Beautiful detailed portrait of 5 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "16": [
+            "Beautiful detailed portrait of 6 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "17": [
+            "Beautiful detailed portrait of 7 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "18": [
+            "Beautiful detailed portrait of 8 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "19": [
+            "Beautiful detailed portrait of 9 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "20": [
+            "Beautiful detailed portrait of 10 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "21": [
+            "Beautiful detailed portrait of 11 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "22": [
+            "Beautiful detailed portrait of 12 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "23": [
+            "Beautiful detailed portrait of 13 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "24": [
+            "Beautiful detailed portrait of 14 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "25": [
+            "Beautiful detailed portrait of 15 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "26": [
+            "Beautiful detailed portrait of 16 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "27": [
+            "Beautiful detailed portrait of 17 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "28": [
+            "Beautiful detailed portrait of 18 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "29": [
+            "Beautiful detailed portrait of 19 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "30": [
+            "Beautiful detailed portrait of 20 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "31": [
+            "Beautiful detailed portrait of 21 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "32": [
+            "Beautiful detailed portrait of 22 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "33": [
+            "Beautiful detailed portrait of 23 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "34": [
+            "Beautiful detailed portrait of 24 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "35": [
+            "Beautiful detailed portrait of 25 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "36": [
+            "Beautiful detailed portrait of 26 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "37": [
+            "Beautiful detailed portrait of 27 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "38": [
+            "Beautiful detailed portrait of 28 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "39": [
+            "Beautiful detailed portrait of 29 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "40": [
+            "Beautiful detailed portrait of 30 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "41": [
+            "Beautiful detailed portrait of 31 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "42": [
+            "Beautiful detailed portrait of 32 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "43": [
+            "Beautiful detailed portrait of 33 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "44": [
+            "Beautiful detailed portrait of 34 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "45": [
+            "Beautiful detailed portrait of 35 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "46": [
+            "Beautiful detailed portrait of 36 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "47": [
+            "Beautiful detailed portrait of 37 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "48": [
+            "Beautiful detailed portrait of 38 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "49": [
+            "Beautiful detailed portrait of 39 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "50": [
+            "Beautiful detailed portrait of 40 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "51": [
+            "Beautiful detailed portrait of 41 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "52": [
+            "Beautiful detailed portrait of 42 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "53": [
+            "Beautiful detailed portrait of 43 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "54": [
+            "Beautiful detailed portrait of 44 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "55": [
+            "Beautiful detailed portrait of 45 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "56": [
+            "Beautiful detailed portrait of 46 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "57": [
+            "Beautiful detailed portrait of 47 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "58": [
+            "Beautiful detailed portrait of 48 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "59": [
+            "Beautiful detailed portrait of 49 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "60": [
+            "Beautiful detailed portrait of 50 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "61": [
+            "Beautiful detailed portrait of an adorable 1 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "62": [
+            "Beautiful detailed portrait of an adorable 2 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "63": [
+            "Beautiful detailed portrait of an adorable 3 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "64": [
+            "Beautiful detailed portrait of an adorable 4 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "65": [
+            "Beautiful detailed portrait of an adorable 5 day old Egyptian baby girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "66": [
+            "Beautiful detailed portrait of adorable 1 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "67": [
+            "Beautiful detailed portrait of adorable 2 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "68": [
+            "Beautiful detailed portrait of adorable 3 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "69": [
+            "Beautiful detailed portrait of adorable 4 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "70": [
+            "Beautiful detailed portrait of adorable 5 month old egyptian girl by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "71": [
+            "Beautiful detailed portrait of 1 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "72": [
+            "Beautiful detailed portrait of 2 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "73": [
+            "Beautiful detailed portrait of 3 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "74": [
+            "Beautiful detailed portrait of 4 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "75": [
+            "Beautiful detailed portrait of 5 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "76": [
+            "Beautiful detailed portrait of 6 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "77": [
+            "Beautiful detailed portrait of 7 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "78": [
+            "Beautiful detailed portrait of 8 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "79": [
+            "Beautiful detailed portrait of 9 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "80": [
+            "Beautiful detailed portrait of 10 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "81": [
+            "Beautiful detailed portrait of 11 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "82": [
+            "Beautiful detailed portrait of 12 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "83": [
+            "Beautiful detailed portrait of 13 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "84": [
+            "Beautiful detailed portrait of 14 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "85": [
+            "Beautiful detailed portrait of 15 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "86": [
+            "Beautiful detailed portrait of 16 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "87": [
+            "Beautiful detailed portrait of 17 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "88": [
+            "Beautiful detailed portrait of 18 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "89": [
+            "Beautiful detailed portrait of 19 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "90": [
+            "Beautiful detailed portrait of 20 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "91": [
+            "Beautiful detailed portrait of 21 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "92": [
+            "Beautiful detailed portrait of 22 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "93": [
+            "Beautiful detailed portrait of 23 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "94": [
+            "Beautiful detailed portrait of 24 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "95": [
+            "Beautiful detailed portrait of 25 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "96": [
+            "Beautiful detailed portrait of 26 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "97": [
+            "Beautiful detailed portrait of 27 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "98": [
+            "Beautiful detailed portrait of 28 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "99": [
+            "Beautiful detailed portrait of 29 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "100": [
+            "Beautiful detailed portrait of 30 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "101": [
+            "Beautiful detailed portrait of 31 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "102": [
+            "Beautiful detailed portrait of 32 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "103": [
+            "Beautiful detailed portrait of 33 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "104": [
+            "Beautiful detailed portrait of 34 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "105": [
+            "Beautiful detailed portrait of 35 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "106": [
+            "Beautiful detailed portrait of 36 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "107": [
+            "Beautiful detailed portrait of 37 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "108": [
+            "Beautiful detailed portrait of 38 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ],
+        "109": [
+            "Beautiful detailed portrait of 39 year old Egyptian Princess by Nick Silva, Shin JeongHo, Wandah Kurniawan, Symmetrical composition with people centered, trending on artstation, colorized:4",
+            "text:-2",
+            "glasses:-1",
+            "color:1"
+        ]
+    },
+    "image_prompts": {},
+    "clip_guidance_scale": 30000,
+    "tv_scale": 150000,
+    "range_scale": 90,
+    "sat_scale": 190000,
+    "sat_scale_buffer_on": true,
+    "sat_scale_buffer": 0.05,
+    "cutn_batches": 8,
+    "soft_limiter_on": true,
+    "soft_limiter_knee": 0.98,
+    "init_image": null,
+    "init_scale": 1000,
+    "skip_steps": 15,
+    "skip_end_steps": 0,
+    "max_frames": 100,
+    "interp_spline": "Linear",
+    "frames_scale": 1500,
+    "frames_skip_steps": "65%",
+    "perlin_init": false,
+    "perlin_mode": "mixed",
+    "skip_augs": false,
+    "randomize_class": true,
+    "clip_denoised": false,
+    "clamp_grad": true,
+    "clamp_max": 0.06,
+    "seed": 1361766325,
+    "fuzzy_prompt": false,
+    "rand_mag": 0.05,
+    "eta": 0.9,
+    "width": 600,
+    "height": 600,
+    "diffusion_model": "512x512_diffusion_uncond_finetune_008100",
+    "use_secondary_model": false,
+    "steps": 300,
+    "diffusion_steps": 900,
+    "diffusion_sampling_mode": "ddim",
+    "ViTB32": true,
+    "ViTB16": true,
+    "ViTL14": true,
+    "RN101": false,
+    "RN50": true,
+    "RN50x4": false,
+    "RN50x16": false,
+    "RN50x64": false,
+    "cut_overview": "[6]*200+[6]*200+[4]*200+[4]*200+[1]*200",
+    "cut_innercut": "[0]*200+[0]*200+[6]*200+[4]*200+[4]*200",
+    "cut_ic_pow": 10,
+    "cut_icgray_p": "[0.2]*400+[0]*800",
+    "key_frames": true,
+    "angle": "0:(0)",
+    "zoom": "0: (1.0)",
+    "translation_x": "0: (0)",
+    "translation_y": "0: (0)",
+    "translation_z": "0: (0)",
+    "rotation_3d_x": "0: (0)",
+    "rotation_3d_y": "0: (0)",
+    "rotation_3d_z": "0: (0)",
+    "midas_depth_model": "dpt_large",
+    "midas_weight": 0.3,
+    "near_plane": 200,
+    "far_plane": 10000,
+    "fov": 80,
+    "padding_mode": "border",
+    "sampling_mode": "bicubic",
+    "video_init_path": "/content/training.mp4",
+    "extract_nth_frame": 2,
+    "video_init_seed_continuity": true,
+    "turbo_mode": true,
+    "turbo_steps": "3",
+    "turbo_preroll": 10,
+    "noise_injector": true,
+    "noise_injector_threshold": 35,
+    "noise_injector_px_size": 4,
+    "noise_injector_sigma": 32,
+    "noise_injector_spice": 0.1,
+    "noise_injector_mask_feather": 10,
+    "copy_palette": true,
+    "copy_palette_image": "/content/drive/MyDrive/AI/Disco_Diffusion/images_out/aging_painting_OD/aging_painting_OD(-1)_0000.png"
+}
