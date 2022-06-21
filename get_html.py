@@ -19,10 +19,11 @@ print(new_url)
 
 new_webUrl=urllib.request.urlopen(new_url)
 new_data=new_webUrl.read()
-y=str(new_data).split('<a class="upload-link song-title"')
+#print(new_data)
+y=str(new_data).split('<a class="upload-link song-title" href="/files/')
 
 for i in range(1,len(y)):
-    song_list.append(y[i].split('</a> <a class="people-link artist-name light-color" ')[0].split('>')[1])
+    song_list.append(y[i].split('</a> <a class="people-link artist-name light-color" ')[0].split('/')[1].split('">')[0])
 # for song in song_list:
 #     print(song)
    # print("aaa "+y[i].split('</a> <a class="people-link artist-name light-color" ')[0].split('>')[1])
