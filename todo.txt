@@ -1,7 +1,6 @@
 
 
 download the song
-make a 'credits' string that is the credits for that song
 
 make this downloaded song be the audio for the video
 create a description for the youtube video in this format
